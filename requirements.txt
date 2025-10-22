@@ -1,0 +1,9 @@
+# University Student System Requirements
+# No external dependencies required - uses only Python standard library
+
+# Python 3.11+ required
+# tkinter (GUI) - included with Python standard library
+# pickle (data persistence) - included with Python standard library
+# re (regex validation) - included with Python standard library
+# random (mark generation) - included with Python standard library
+# os (file operations) - included with Python standard library
